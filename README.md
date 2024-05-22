@@ -15,6 +15,8 @@
 -   [] Run this comand below
 -   [] pip install flask flask-cors
 -   [] pip install flask
+-   [] To run the python backend just simply open terminal to the directory of the python backen then run this comand below
+-   [] python backend.py
 -   [] The rest is just install the laravel applications just like before
 
 ## License 
