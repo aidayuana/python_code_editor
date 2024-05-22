@@ -8,7 +8,7 @@
 </p>
 
 ## TO run project in order 
--   [] There is file named python-executer open and extract it in whereever folder
+-   [] There is file named python-executer.zip open and extract it in whereever folder
 -   [] open the folder that you already extract
 -   [] Then open terminal inside the directory of the folder
 -   [] Required Python, Flask, Flask CORS
