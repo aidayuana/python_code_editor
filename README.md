@@ -7,15 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## ToDo
+## TO run project in order 
+-   [] There is file named python-executer open and extract it in whereever folder
+-   [] open the folder that you already extract
+-   [] Then open terminal inside the directory of the folder
+-   [] Required Python, Flask, Flask CORS
+-   [] Run this comand below
+-   [] pip install flask flask-cors
+-   [] pip install flask
+-   [] The rest is just install the laravel applications just like before
 
--   [x] Ambil course admin sekolah
--   [x] Sekolah Course Siswa
--   [x] Sekolah Course Guru
--   [x] Sekolah Course Super Admin
--   [ ] Chart Course Siswa
--   [ ] Chart Course Super Admin
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## License 
